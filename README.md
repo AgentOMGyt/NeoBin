@@ -5,6 +5,7 @@
 **NéoBin** est une poubelle intelligente conçue pour simplifier le recyclage dans les espaces publics et privés. Grâce à la reconnaissance d'image en temps réel, elle identifie le type de déchet présenté et l'aiguille automatiquement vers le bon compartiment, sans intervention de l'utilisateur.
 
 ![Rendu NéoBin](neobin%20render.png)
+
 ---
 
 ## 🚀 Le Concept
