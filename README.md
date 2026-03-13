@@ -40,6 +40,8 @@ Le projet repose sur une synergie entre hardware et software :
 
 ---
 
+![Rendu NéoBin 2](neobin%20render1.png)
+
 ### Configuration de l'IA
 1. Le modèle est hébergé via Google Cloud. Si vous souhaitez utiliser votre propre modèle :
    - Entraînez votre modèle sur [Teachable Machine](https://teachablemachine.withgoogle.com/).
